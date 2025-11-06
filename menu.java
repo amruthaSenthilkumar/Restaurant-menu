@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class soru
+public class menu
 {
 public static void main(String[]args)
 {
@@ -45,4 +45,5 @@ System.out.println("your order is ready "+dinner);
 System.out.println("Thank you for coming");
 }
 }
+
 
